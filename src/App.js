@@ -10,6 +10,10 @@ function App() {
     }
 
     const linksData=[{
+      redirectUrl:"https://www.linkedin.com/in/yashmunjal45/",
+      serviceName:"LinkedIn"
+    },
+      {
         redirectUrl:"https://instagram.com/yashmunjal45/",
         serviceName:"Visit My Instagram"
     },{
